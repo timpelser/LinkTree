@@ -15,40 +15,40 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
-    # FACEBOOK
-  - Name: Facebook
-    URL: ---
-    Username: harsh98trivedi
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
+#     # FACEBOOK
+#   - Name: Facebook
+#     URL: ---
+#     Username: harsh98trivedi
+#     Color: '#3b5998'
+#     Icon-Class: fab fa-facebook
 
-    # INSTAGRAM
-  - Name: Instagram
-    URL: ---
-    Username: harsh98trivedi
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
+#     # INSTAGRAM
+#   - Name: Instagram
+#     URL: ---
+#     Username: harsh98trivedi
+#     Color: '#DD2A7B'
+#     Icon-Class: fab fa-instagram
 
-    # TWITTER
-  - Name: Twitter
-    URL: ---
-    Username: harsh98trivedi
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
+#     # TWITTER
+#   - Name: Twitter
+#     URL: ---
+#     Username: harsh98trivedi
+#     Color: '#1DA1F2'
+#     Icon-Class: fab fa-twitter
     
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: harsh98trivedi
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
+#     # LINKEDIN
+#   - Name: LinkedIn
+#     URL: https://www.linkedin.com/in
+#     Username: harsh98trivedi
+#     Color: '#2867B2'
+#     Icon-Class: fab fa-linkedin-in
 
-    # YOUTUBE
-  - Name: YouTube
-    URL: ---
-    Username: UCS3zvA_2r1iGT7MB3NVCGAw
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
+#     # YOUTUBE
+#   - Name: YouTube
+#     URL: ---
+#     Username: UCS3zvA_2r1iGT7MB3NVCGAw
+#     Color: '#ff0000'
+#     Icon-Class: fab fa-youtube
 
     # EMAIL
   - Name: Email
@@ -60,23 +60,23 @@ links:
     # SPOTIFY
   - Name: Spotify
     URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
+    Username: timpelser
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
 
-    # SOUNDCLOUD
-  - Name: SoundCloud
-    URL: https://www.soundcloud.com
-    Username: harsh98trivedi
-    Color: '#FE5000'
-    Icon-Class: fab fa-soundcloud
+#     # SOUNDCLOUD
+#   - Name: SoundCloud
+#     URL: https://www.soundcloud.com
+#     Username: harsh98trivedi
+#     Color: '#FE5000'
+#     Icon-Class: fab fa-soundcloud
 
-    # CUSTOM LINK
-  - Name: Blog
-    URL: https://harsh98trivedi.github.io/blog
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
+#     # CUSTOM LINK
+#   - Name: Blog
+#     URL: https://harsh98trivedi.github.io/blog
+#     Icon-Class: fas fa-link
+#     Color: '#ffb142'
+#     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer:
